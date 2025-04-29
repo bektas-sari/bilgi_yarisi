@@ -58,3 +58,8 @@ Katkılara açığız! Lütfen önce bir issue oluşturun ve ne değişiklik yap
 
 ## 📢 Lisans
 Bu proje öğrenme amacıyla geliştirilmiştir ve açık kaynaklıdır.
+
+## İletişim
+Email: bektas.sari@gmail.com
+
+
