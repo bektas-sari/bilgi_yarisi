@@ -53,10 +53,6 @@ Kullanıcıya doğru-yanlış sorular sorulur ve cevaplarına göre anlık skor 
    ```bash
    flutter run
    ```
-
-## 🌟 Ekran Görünütüsü
-(Uygulamanın ekran görünütüsü buraya eklenebilir.)
-
 ## ✍️ Katkıda Bulunmak
 Katkılara açığız! Lütfen önce bir issue oluşturun ve ne değişiklik yapmayı planladığınızı belirtin.
 
