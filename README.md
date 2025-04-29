@@ -1,6 +1,7 @@
 # Bilgi Testi Uygulaması
 
-Bu proje, Flutter kullanılarak geliştirilmiş basit ve şık bir bilgi yarışması uygulamasıdır. Kullanıcıya doğru-yanlış sorular sorulur ve cevaplarına göre anlık skor takibi yapılır.
+Bu proje, Flutter kullanılarak geliştirilmiş basit ve şık bir bilgi yarışması uygulamasıdır. 
+Kullanıcıya doğru-yanlış sorular sorulur ve cevaplarına göre anlık skor takibi yapılır.
 
 ## 📊 Proje Amacı
 - Flutter bilgilerini pekistirmek
