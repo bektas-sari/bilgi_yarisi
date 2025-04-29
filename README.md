@@ -43,7 +43,7 @@ Kullanıcıya doğru-yanlış sorular sorulur ve cevaplarına göre anlık skor 
 ## 🔧 Kurulum ve Çalıştırma
 1. Bu repoyu klonlayın:
    ```bash
-   git clone <repo-link>
+   git clone <[repo-link](https://github.com/bektas-sari/bilgi_yarisi.git)>
    ```
 2. Bağımlılıkları yükleyin:
    ```bash
